@@ -1,4 +1,18 @@
-### Hi there 👋
+### Привет! 👋
+### Меня зовут Илья Карпов  
+<br />
+
+Ищу работу по специальности Data Scientist
+
+Я закончил курс Нетологии "Data Scientist с нуля до middle"  
+
+Портфолио с моими проектами (на модернизации)
+
+📫 Мои контакты:
+- ilya_karpov@icloud.com
+- +7 (917) 232-82-64 - Telegram, WhatsUp
+
+
 
 <!--
 **Ilya-Karpov/Ilya-Karpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
