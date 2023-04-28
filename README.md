@@ -10,7 +10,7 @@
 
 📫 Мои контакты:
 - ilya_karpov@icloud.com
-- +7 (917) 232-82-64 - [Telegram](https://t.me/llya_Karpov), WhatsUp
+- [Telegram](https://t.me/llya_Karpov)
 
 
 
