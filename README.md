@@ -10,7 +10,7 @@
 
 📫 Мои контакты:
 - ilya_karpov@icloud.com
-- [Telegram](https://t.me/llya_Karpov)
+- [Telegram: t.me/llya_Karpov](https://t.me/llya_Karpov)
 
 
 
